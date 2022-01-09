@@ -18,10 +18,6 @@ Este é um projeto desenvolvido com o objetivo de colaborar com o gerenciamento 
 
 - [x] **Recuperação de todas as contas bancárias**
 - [x] **Recuperação dos detalhes de conta bancária (inclusive dados do seu titular)**
-- [ ] Cadastrar Contas
-- [ ] Cancelar Contas
-- [ ] Visualizar Contas
-- [ ] Visualizar e Atualizar Informações do Cliente
 
 # Tecnologias Usadas
 
